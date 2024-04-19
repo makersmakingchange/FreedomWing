@@ -10,6 +10,9 @@ This device is Open Source Hardware. Everything needed to build the device is co
 
 More information is available at http://atmakers.org/featherwing
 
+Last Updated: 2024-Apr-19 (V1.1)
+Some components on the original PCB design are obsolete. The new PCB version (v1.1) accomodates an alternative.
+
 
 ## License
 
