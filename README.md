@@ -8,10 +8,15 @@ The FreedomWing was designed by [ATMakers](http://atmakers.org/) in collaboratio
 
 This device is Open Source Hardware. Everything needed to build the device is contained within this repository.
 
+<img src="photos/FreedomWing.png" height="250" alt="CAD render of the FreedomWing.">
+
 More information is available at http://atmakers.org/featherwing
 
 Last Updated: 2024-Apr-19 (V1.1)
-Some components on the original PCB design are obsolete. The new PCB version (v1.1) accomodates an alternative.
+ - Some components on the original PCB design are obsolete. The new PCB version (v1.1) accomodates an alternative.
+
+## Makers Making Change Assistive Device Library
+ - https://www.makersmakingchange.com/s/product/freedomwing-joystick-adapter/01tJR000000694XYAQ
 
 
 ## License
