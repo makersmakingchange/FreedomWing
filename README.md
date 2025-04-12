@@ -23,5 +23,6 @@ Hardware designs are licensed under the Creative Commons Attribution Share Alike
 Documentation is licensed under the Creative Commons Attribution Share Alike (CC-BY:SA) license.  A copy is provided in the 'documentation' subdirectory.
 
 
+<!-- ABOUT MMC START -->
 
-
+<!-- ABOUT MMC END -->
